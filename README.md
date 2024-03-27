@@ -13,5 +13,6 @@ This is a simple chat room application built with Spring Boot and WebSocket. It 
 - Spring Boot
 - WebSocket
 - MongoDB
+- Postgresql
 - Java 17
 
