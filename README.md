@@ -8,9 +8,10 @@ Users can join the chat room by providing a username.
 Messages are broadcasted to all connected users.
 User join and leave notifications are sent to all users.
 
-#Technologies Used
+# Technologies Used
 
 Spring Boot
 WebSocket
 MongoDB
-Java 8
+Postgresql
+Java 17
