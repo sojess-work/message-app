@@ -1,0 +1,33 @@
+# Maven specific
+target/
+*.iml
+.idea/
+
+# Spring Boot specific
+spring-boot-starter-*.jar
+!spring-boot-starter-web.jar  # If you want to include this specific JAR
+
+# IDE specific
+.vscode/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+*.user
+*.bak
+*.cache
+*.class
+*.db
+*.DS_Store
+*.tmp
+*.log
+
+# Miscellaneous
+*.log
+*.jar
+*.war
+*.ear
+*.db
+*.tmp
+*.log
